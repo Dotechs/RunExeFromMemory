@@ -131,12 +131,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="LoadExe.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\LoadExe.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LoadExe.h" />
-    <ClInclude Include="pch.h" />
+    <ClInclude Include="src\LoadExe.h" />
+    <ClInclude Include="src\pch.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
