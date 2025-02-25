@@ -1,7 +1,7 @@
 # RunExeFromMemory
 
 [![Dot|Discord server](https://pub-b7e1bd33e46b4f0caadc15e274b9fd23.r2.dev/RunExeFromMemory.png)](https://discord.gg/3vqgyqyzjB)
-## السلام عليكم ورحمه الله وبركاته 
+## السلام عليكم ورحمة الله وبركاته 
 
 RunExeFromMemory is a c++ made project that allows you to use a well known technique in cybersecurity and malware analysis called "Process Hollowing",  It's  used in packers and loaders to run an executable inside the memory space of another process.
 
